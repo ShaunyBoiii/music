@@ -1,0 +1,80 @@
+{
+    "pagination":[
+        {
+            "page_num": 2,
+            "total_pages":3
+        }
+    ],
+    "results":[
+        {
+            "id": 11,
+            "title": "Inhumane Harvest",
+            "artist": "Cannibal Corpse",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d5/c0/0e/d5c00eee-6a49-49be-f05e-665f42e9cd91/Cannibal_Corpse_-_Violence_Unimagined.jpg/316x316bb.webp",
+            "duration":"4:32"
+        },
+        {
+            "id": 12,
+            "title": "Freak on a Leash",
+            "artist": "Korn",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Video126/v4/95/ad/30/95ad30e7-ba1a-c207-9eb9-e8d2f4aa8b52/Job75892582-404d-445f-9fd6-46b3409cf01b-156723769-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_300814877_1574839362-Time1696543578039.png/316x316bb.webp",
+            "duration":"4:15"
+        },
+        {
+            "id": 13,
+            "title": "Make Them Suffer",
+            "artist": "Cannibal Corpse",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/46/ef/f9/46eff9a5-b3c2-f88e-eade-467f3ade1204/039841520729.jpg/316x316bb.webp",
+            "duration":"3:18"
+        },
+        {
+            "id": 14,
+            "title": "Snuff",
+            "artist": "Slipknot",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/ca/de/86/cade86ae-13ab-ffd6-2139-390bccaf9cfd/Jobd1f03fdd-7971-43ea-a520-8d4f8c13475e-133497443-PreviewImage_preview_image_nonvideo_sdr-Time1656540794506.png/316x316bb.webp",
+            "duration":"4:36"
+        },
+        {
+            "id": 15,
+            "title": "Falling Away From Me",
+            "artist": "Korn",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/75/b7/07/75b7076e-326c-76b9-cee2-e24eb231828a/dj.vcfewdhc.jpg/316x316bb.webp",
+            "duration":"4:30"
+        },
+        {
+            "id": 16,
+            "title": "Seek and Destroy",
+            "artist": "Metallica",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Video221/v4/9b/87/35/9b8735ca-e08f-2f60-f40b-e2d9ea65d920/Job98d7f92a-7e8f-4740-b501-de53406683ba-167614807-PreviewImage_preview_image_nonvideo_sdr-Time1715138305545.png/316x316bb.webp",
+            "duration":"6:54"
+        },
+        {
+            "id": 17,
+            "title": "Psychosocial",
+            "artist": "Slipknot",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/ca/de/86/cade86ae-13ab-ffd6-2139-390bccaf9cfd/Jobd1f03fdd-7971-43ea-a520-8d4f8c13475e-133497443-PreviewImage_preview_image_nonvideo_sdr-Time1656540794506.png/316x316bb.webp",
+            "duration":"4:43"
+        },
+        {
+            "id": 18,
+            "title": "Laid to Rest",
+            "artist": "Lamb of God",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/0a/c2/96/0ac296e4-474e-9aef-b963-39ebedb2a93d/Jobfcb1a591-2728-4d3d-89f3-caa217989ffa-120862414-PreviewImage_preview_image_nonvideo_sdr-Time1629152448531.png/316x316bb.webp",
+            "duration":"3:50"
+        },
+        {
+            "id": 19,
+            "title": "Peace Sells",
+            "artist": "Megadeth",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/38/eb/22/38eb2239-25be-c219-b8c8-aa9853c91032/00602547895011.rgb.jpg/316x316bb.webp",
+            "duration":"4:03"
+        },
+        {
+            "id": 20,
+            "title": "Walk with Me in Hell",
+            "artist": "Lamb of God",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/34/06/5e/34065e72-de1d-3f5e-ea2e-87737e5f1cf9/Jobcc947c3b-2140-4823-beea-fd8625fb5053-122073035-PreviewImage_preview_image_nonvideo_sdr-Time1629843647734.png/316x316bb.webp",
+            "duration":"5:11"
+        }
+    ]
+}

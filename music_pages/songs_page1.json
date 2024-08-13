@@ -1,0 +1,80 @@
+{
+    "pagination":[
+        {
+            "page_num": 1,
+            "total_pages":3
+        }
+    ],
+    "results":[
+        {
+            "id": 1,
+            "title": "Master of Puppets",
+            "artist": "Metallica",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/69/f9/05/69f905ed-ff04-58a2-8de2-1b5338745f19/858978005226.png/316x316bb.webp",
+            "duration":"8:35"
+        },
+        {
+            "id": 2,
+            "title": "Angel of Death",
+            "artist": "Slayer",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/83/2c/6b832cb7-7234-0fb7-3930-38d9c385dc9a/23UM1IM55794.rgb.jpg/316x316bb.webp",
+            "duration":"4:51"
+        },
+        {
+            "id": 3,
+            "title": "Paranoid",
+            "artist": "Black Sabbeth",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/be/27/91/be279120-2285-16c6-c7ba-9d6643d4a948/075992732727.jpg/316x316bb.webp",
+            "duration":"2:48"
+        },
+        {
+            "id": 4,
+            "title": "Back in Black",
+            "artist": "AC/DC",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1e/14/58/1e145814-281a-58e0-3ab1-145f5d1af421/886443673441.jpg/316x316bb.webp",
+            "duration":"4:16"
+        },
+        {
+            "id": 5,
+            "title": "The Unforgiven",
+            "artist": "Metallica",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Video115/v4/7f/98/4c/7f984c6f-26f9-7070-d4fc-135a6090dcb7/Job5587b67f-d7d6-4048-918e-6d681acd80af-121873201-PreviewImage_preview_image_nonvideo_sdr-Time1629738584910.png/316x316bb.webp",
+            "duration":"6:27"
+        },
+        {
+            "id": 6,
+            "title": "South of Heaven",
+            "artist": "Slayer",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/f5/d3/16/f5d31633-99cc-a335-a31d-47f3c8fd93a4/00602547577665.rgb.jpg/316x316bb.webp",
+            "duration":"4:59"
+        },
+        {
+            "id": 7,
+            "title": "Hanger 18",
+            "artist": "Megadeth",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/fa/81/5a/fa815aa4-a361-34fe-8e9f-eab876a4f95b/13UABIM36806.rgb.jpg/316x316bb.webp",
+            "duration":"5:14"
+        },
+        {
+            "id": 8,
+            "title": "Am I Evil?",
+            "artist": "Diamond Head",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/2a/f5/33/2af533a6-5820-ba93-8dd8-3d198756eef7/00602577661419.rgb.jpg/316x316bb.webp",
+            "duration":"7:20"
+        },
+        {
+            "id": 9,
+            "title": "Raining Blood",
+            "artist": "Slayer",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6b/83/2c/6b832cb7-7234-0fb7-3930-38d9c385dc9a/23UM1IM55794.rgb.jpg/316x316bb.webp",
+            "duration":"4:14"
+        },
+        {
+            "id": 10,
+            "title": "Mechanix",
+            "artist": "Megadeth",
+            "image": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/7c/90/3b/7c903b2a-8dea-feac-900e-5f5d8970e1dc/dj.fokztdhz.jpg/316x316bb.webp",
+            "duration":"4:25"
+        }
+    ]
+}
