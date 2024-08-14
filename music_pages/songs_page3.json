@@ -11,70 +11,70 @@
             "title": "Painkiller",
             "artist": "Judas Priest",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Video125/v4/f1/27/26/f12726d5-d593-f1fe-46d4-18a768da8aaa/Job1929744b-4cf3-4dc8-aae0-959c3c10dc20-116914130-PreviewImage_preview_image_nonvideo_sdr-Time1625777489351.png/316x316bb.webp",
-            "duration":"6:05"
+            "duration":"00:06:05"
         },
         {
             "id": 22,
             "title": "Ace of Spades",
             "artist": "Motorhead",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/4a/f9/88/4af988c8-5a08-72e1-a97f-7b8d2010cc40/5414939548673.jpg/316x316bb.webp",
-            "duration":"2:48"
+            "duration":"00:02:48"
         },
         {
             "id": 23,
             "title": "Madhouse",
             "artist": "Anthrax",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/80/70/48/8070485f-3818-df5a-5cfb-73626854ca7b/00602547817471.rgb.jpg/316x316bf.webp",
-            "duration":"4:19"
+            "duration":"00:04:19"
         },
         {
             "id": 24,
             "title": "Breaking the Law",
             "artist": "Judas Priest",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Video122/v4/56/eb/d0/56ebd024-e62f-e9e2-6c08-64947b23b163/Job2f61fb16-44ad-432b-ac0b-7d548d7dcdca-163564270-PreviewImage_Preview_Image_Intermediate_nonvideo_sdr_316969072_1694662827-Time1708715160758.png/316x316bb.webp",
-            "duration":"2:33"
+            "duration":"00:02:33"
         },
         {
             "id": 25,
             "title": "Holy Diver",
             "artist": "Dio",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e4/8e/9a/e48e9aa6-1488-8b71-82eb-0b856d1034d2/mzm.txbqniop.jpg/316x316bb.webp",
-            "duration":"5:54"
+            "duration":"00:05:54"
         },
         {
             "id": 26,
             "title": "Inner Self",
             "artist": "Sepultura",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/72/81/52/728152b7-aa04-399b-f376-ef714d074e3b/mzi.ssecckwg.jpg/316x316bb.webp",
-            "duration":"5:09"
+            "duration":"00:05:09"
         },
         {
             "id": 27,
             "title": "Overkill",
             "artist": "Motorhead",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/01/c7/57/01c7575a-7297-0ab6-5f3b-e69228dd5731/5414939548574.jpg/316x316bb.webp",
-            "duration":"5:13"
+            "duration":"00:05:13"
         },
         {
             "id": 28,
             "title": "Territory",
             "artist": "Sepultura",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/a2/87/98/a28798b7-1c28-f7c3-55a6-44a5f4a6215c/016861761509.jpg/316x316bb.webp",
-            "duration":"4:48"
+            "duration":"00:04:48"
         },
         {
             "id": 29,
             "title": "Rainbow in the Dark",
             "artist": "Dio",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/e4/8e/9a/e48e9aa6-1488-8b71-82eb-0b856d1034d2/mzm.txbqniop.jpg/316x316bb.webp",
-            "duration":"4:14"
+            "duration":"00:04:14"
         },
         {
             "id": 30,
             "title": "Fear of the Dark",
             "artist": "Iron Maiden",
             "image": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/6a/33/20/6a332093-9605-ced0-3e3e-b2990318c618/881034134516.jpg/316x316bb.webp",
-            "duration":"7:18"
+            "duration":"00:07:18"
         }
     ]
 }
